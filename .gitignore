@@ -1,0 +1,10 @@
+*.class
+*.classpath
+*.project
+/SuperAssignment/src/note
+/SuperAssignment/.classpath
+/SuperAssignment/build/classes/note
+/SuperAssignment/build/classes/.gitignore
+applicationContext.xml
+*.turn-project
+SuperAssignment/.classpath
